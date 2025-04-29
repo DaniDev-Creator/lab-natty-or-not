@@ -165,7 +165,7 @@ Este projeto é uma introdução visual, prática e conceitual à Inteligência 
 ![Cérebro IA cinematográfico](https://cdn.leonardo.ai/users/defbd9f0-8b40-4db6-897b-fc8fadf82486/generations/543d1b71-19fe-4337-9dbc-19d5af409a6c/segments/1:4:1/Flux_Dev_A_cinematic_portrait_photograph_of_O_crebro_da_IA_dep_0.jpg)
 
 #### 🌃 Cidade Futurista ao Anoitecer
-![Cidade futurista 1]([./Flux_Dev_A_moody_futuristic_cityscape_at_dusk_with_towering_sk_0.jpg](https://cdn.leonardo.ai/users/defbd9f0-8b40-4db6-897b-fc8fadf82486/generations/e4e5cf0e-7446-47d0-acae-6df6330195b0/segments/2:4:1/Flux_Dev_A_moody_futuristic_cityscape_at_dusk_with_towering_sk_1.jpg))
+![Cidade futurista 1](https://cdn.leonardo.ai/users/defbd9f0-8b40-4db6-897b-fc8fadf82486/generations/e4e5cf0e-7446-47d0-acae-6df6330195b0/segments/2:4:1/Flux_Dev_A_moody_futuristic_cityscape_at_dusk_with_towering_sk_1.jpg)
 
 > As imagens foram pensadas para ilustrar cada uma das subáreas ou aplicações da IA, como robótica, visão computacional e o impacto da IA na sociedade futura.
 
